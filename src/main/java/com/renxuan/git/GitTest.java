@@ -1,0 +1,10 @@
+package com.renxuan.git;
+
+/**
+ * @author RenXuan
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
